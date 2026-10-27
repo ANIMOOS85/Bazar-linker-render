@@ -1,0 +1,9 @@
+# Keep shell scripts LF-terminated even when edited/committed from Windows.
+*.sh text eol=lf
+*.py text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.js text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.md text eol=lf
